@@ -1,0 +1,1 @@
+Install-Package Microsoft.DXSDK.D3DX
